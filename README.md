@@ -81,8 +81,7 @@ imblearn
 - **`ml-models.ipynb`**: Model training and evaluation notebook containing 12 different CLASSIFICATION models
 
 ---
-Feel free to contribute or raise issues for improvement!
-Made with ❤️ by Sarayu Krishna
+ 
 
 
 
@@ -92,5 +91,4 @@ Feel free to contribute or raise issues for improvement!
 **Made with ❤️ by Sarayu Krishna**
 
 ---
-
-Let me know if you need help with further customization!
+ 
